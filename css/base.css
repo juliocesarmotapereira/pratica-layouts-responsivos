@@ -30,11 +30,15 @@ body {
 
 .botao {
   text-align: center;
+
   display: block;
+
   width: 100%;
   max-width: 100%;
+
   box-sizing: border-box;
   padding: 1rem 2rem;
+  
   border: 1px solid var(--branco);
   border-radius: 5px;
 }
