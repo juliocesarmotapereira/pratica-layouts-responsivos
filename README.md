@@ -1,4 +1,4 @@
-## projeto de estudos práticos
+## prática de estudos layouts responsivos
 
 ### anotações
 - HTML: utilização Emment para agiliar a produção de códigos; 
